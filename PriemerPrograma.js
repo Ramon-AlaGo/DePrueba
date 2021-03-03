@@ -1,5 +1,13 @@
-<!DOCTYPE html>
-  <html>
-    <body>
-      <button onclick = "function1()"> Click </button>
-        <p id= "element1">
+<html>
+<head>
+  <title>
+    Esta es mi página web con Javascript Interno
+  </title>
+  <script>
+    alert("Esto es JavaScript");
+  </script>
+</head>
+<body>
+  "Hola Mundo"
+</body>
+</html>
